@@ -1,4 +1,5 @@
-# module2_final_project
+# Module 2 Final Project: 
+## Music Industry Analysis for Producers
 We propose to assist music producers with their search for music production opportunities. Our slices of analysis focus on four hypothesis test questions:  
 
 **(1)** Is there a statistical difference between the ratings of two different music genres: Jazz and Metal?  
