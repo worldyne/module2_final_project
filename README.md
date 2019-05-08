@@ -26,5 +26,5 @@ During our statistical analysis, we found the following results:
 
 **(1)**  
 **(2)** The label with the most artists signed does not perform significantly differently than labels with only one artist signed. Using a two-sided T-test, with a significance level of 0.05, and a p-value of 0.706, we fail to reject the null hypothesis in favor of the alternative hypothesis. [Artist Density Notebook](artist_density.ipynb)  
-**(3)** The labels with the most genre diversity does have statistically significantly higher scores than the labels with the least genre diversity. Using a one sided T-test, with a significance level of 0.05, and a p-value of 0.015 we successfully reject the null hypothesis in favor of the alternative hypothesis. [Genre Diversity Notebook](label_genre.ipynb)  
+**(3)** The labels with the most genre diversity does have statistically significantly higher scores than the labels with the least genre diversity. Using a one sided T-test, with a significance level of 0.05, and a p-value of 0.015 we successfully reject the null hypothesis in favor of the alternative hypothesis with a statistical power of 58.7%. [Genre Diversity Notebook](label_genre.ipynb)  
 **(4)** 
