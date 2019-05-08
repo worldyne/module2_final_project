@@ -16,7 +16,7 @@ Our methodology consists of approaching each of these questions with a null hypo
 * **(2)** H<sub>0</sub>: The label with the most artists will not have significantly different scores than the label with the least artists signed.  
 * **(2)** H<sub>a</sub>: The label with the most artists will have significantly different scores than the label with the least artists signed.  
 
-* **(3)** H<sub>0</sub>: The label with the most genre diversity will not have higher scores than the label with least genre diversity. [label_genre.ipynb](Genre Diversity)
+* **(3)** H<sub>0</sub>: The label with the most genre diversity will not have higher scores than the label with least genre diversity. (Genre Diversity)[label_genre.ipynb]
 * **(3)** H<sub>a</sub>: The label with the most genre diversity will have higher scores than the label with the least genre diversity.  
 
 * **(4)** H<sub>0</sub>: Average song ratings have stayed the same between time periods 2000-2009 and 2010-2017.  
