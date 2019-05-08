@@ -16,7 +16,7 @@ Our methodology consists of approaching each of these questions with a null hypo
 * **(2)** H<sub>0</sub>: The label with the most artists will not have significantly different scores than the label with the least artists signed.  
 * **(2)** H<sub>a</sub>: The label with the most artists will have significantly different scores than the label with the least artists signed.  
 
-* **(3)** H<sub>0</sub>: The label with the most genre diversity will not have higher scores than the label with least genre diversity. [Genre Diversity](label_genre.ipynb)
+* **(3)** H<sub>0</sub>: The label with the most genre diversity will not have higher scores than the label with least genre diversity.  
 * **(3)** H<sub>a</sub>: The label with the most genre diversity will have higher scores than the label with the least genre diversity.  
 
 * **(4)** H<sub>0</sub>: Average song ratings have stayed the same between time periods 2000-2009 and 2010-2017.  
@@ -25,6 +25,6 @@ Our methodology consists of approaching each of these questions with a null hypo
 During our statistical analysis, we found the following results:
 
 **(1)**  
-**(2)** The label with the most artists signed does not perform significantly differently than labels with only one artist signed. Using a two-sided T-test, with a significance level of 0.05, and a p-value of 0.706, we fail to reject the null hypothesis in favor of the alternative hypothesis.  
+**(2)** The label with the most artists signed does not perform significantly differently than labels with only one artist signed. Using a two-sided T-test, with a significance level of 0.05, and a p-value of 0.706, we fail to reject the null hypothesis in favor of the alternative hypothesis. [Genre Diversity Notebook](label_genre.ipynb)  
 **(3)** The labels with the most genre diversity does have statistically significantly higher scores than the labels with the least genre diversity. Using a one sided T-test, with a significance level of 0.05, and a p-value of 0.015 we successfully reject the null hypothesis in favor of the alternative hypothesis.  
 **(4)** 
