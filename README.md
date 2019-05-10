@@ -4,8 +4,11 @@
 We propose to assist music producers with their search for music production opportunities. Our slices of analysis focus on four hypothesis test questions:  
 
 **(1)** Is there a statistically significant difference between the scores of albums in the jazz and metal genres?
+
 **(2)** Will the label with the most artists have the highest album scores? 
+
 **(3)** Is there a relationship between labels' genre diversity and labels' average score?  
+
 **(4)** Are the average album scores of 2000-2009 different from those of 2010-2017??  
 
 Our methodology consists of approaching each of these questions with a null hypothesis to reject and an alternative hypothesis to accept in the case of rejection. Our hypotheses for each question are as follows:  
