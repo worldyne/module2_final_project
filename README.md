@@ -1,4 +1,4 @@
-# Module 2 Final Project: 
+# Music Industry Analysis for Producers: 
 ## Music Industry Analysis for Producers
 [Industry Presentation Slides](https://docs.google.com/presentation/d/102XJzzTyGXwBd3s3WvtfC0avcXfHVpAipzfFGSrTGwo/edit?usp=sharing)  
 We propose to assist music producers with their search for music production opportunities. Our slices of analysis focus on four hypothesis test questions:  
