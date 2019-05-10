@@ -12,7 +12,7 @@ Our methodology consists of approaching each of these questions with a null hypo
 
 
 * **(1)** H<sub>0</sub>: Songs of the Jazz genre will not have a different rating allocation from Metal.  
-* **(1)** H<sub>a</sub>:Songs of the Jazz genre do have a different rating allocation from Metal.  
+* **(1)** H<sub>a</sub>: Songs of the Jazz genre do have a different rating allocation from Metal.  
 
 * **(2)** H<sub>0</sub>: The label with the most artists will not have significantly different scores than the label with the least artists signed.  
 * **(2)** H<sub>a</sub>: The label with the most artists will have significantly different scores than the label with the least artists signed.  
