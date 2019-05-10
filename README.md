@@ -28,6 +28,9 @@ Our methodology consists of approaching each of these questions with a null hypo
 During our statistical analysis, we found the following results:
 
 **(1)** Jazz albums consistently earn scores slightly higher than metal albums. Using a two sample two-tailed z-test, with a significance level of 0.05 and a p-value of 7.5e-06, we reject our null hypothesis in favor of our alternative hypothesis. [Jazz-Metal Comaparison Notebook](jazz_vs_metal.ipynb)
+
 **(2)** The label with the most artists signed does not perform significantly differently than labels with only one artist signed. Using a two-sided T-test, with a significance level of 0.05, and a p-value of 0.706, we fail to reject the null hypothesis in favor of the alternative hypothesis. [Artist Density Notebook](artist_density.ipynb)  
+
 **(3)** The labels with the most genre diversity does have statistically significantly higher scores than the labels with the least genre diversity. Using a one sided T-test, with a significance level of 0.05, and a p-value of 0.015 we successfully reject the null hypothesis in favor of the alternative hypothesis with a statistical power of 58.7%. [Genre Diversity Notebook](label_genre.ipynb)  
+
 **(4)** Albums released between 2000 and 2009 consistently earn scores slightly higher than albums released between 2010 and 2017. Using a two sample two-tailed z-test with a significance level of 0.05 and a p-value of 5.67e-08, we reject our null hypothesis in favor of our alternative hypothesis. [2000s-2010s Comparison Notebook](scores_over_time.ipynb)
